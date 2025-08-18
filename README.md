@@ -13,7 +13,7 @@
 
 
 
-<p> Hi, I am a professional Web Developer. I am an expert in Javascript, react, C++, and MySQL language also python.💫 A chef Who loves to cook visually appealing web applications with different technologies.</p>
+<p> Hi, I am a professional Web Developer. I am an expert in Javascript, react, C++, and MySQL language also python. A chef Who loves to cook visually appealing web applications with different technologies.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbircse499&label=Profile%20views&color=0e75b6&style=flat" alt="sabbircse499" /> </p>
 
