@@ -8,7 +8,7 @@
 <a align="center" href="https://www.linkedin.com/in/sabbir-hossen-2755a5255/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+I%27M+Emran+Hossain" alt="Hi, I'm Emran Hossain" /></a>
 
 
-  <h3 style="margin: 0;">👨‍💻 A passionate Software Developer from Bangladesh</h3>
+  <h3 style="margin: 0;">👨‍💻 A passionate web Developer from Bangladesh</h3>
 
 
 
@@ -26,17 +26,17 @@
 
 
 
-- 🔭 I’m currently working on **Resturant Management**
+- 🔭 I’m currently working on **Crop mentor**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning Python
 
 - 🤝 I’m looking for help with **Programming Learning**
 
-- 👨‍💻 All of my projects are available at [https://emranhossain.vercel.app/](https://sabbirhossen.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://emranhossain.vercel.app/](www.linkedin.com/in/emran-hossain-825030341)
 
 - 📝 I regularly write articles on [https://emranhossain.vercel.app/](https://sabbirhossen.vercel.app/)
 
-- 💬 Ask me about **Dart, Flutter, javascript**
+- 💬 Ask me about **React, node js, javascript**
 
 - 📫 How to reach me **mdemranhossainnub@gmail.com**
 
