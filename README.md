@@ -32,7 +32,7 @@
 
 - 🤝 I’m looking for help with **Programming Learning**
 
-- 👨‍💻 All of my projects are available at [https://emranhossain.vercel.app/](www.linkedin.com/in/emran-hossain-825030341)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/emran-hossain-825030341]
 
 - 📝 I regularly write articles on [https://emranhossain.vercel.app/](https://sabbirhossen.vercel.app/)
 
