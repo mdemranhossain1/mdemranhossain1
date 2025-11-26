@@ -1,11 +1,5 @@
 
-
-
-
-
-
-
-<a align="center" href="https://www.linkedin.com/in/sabbir-hossen-2755a5255/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+I%27M+Emran+Hossain" alt="Hi, I'm Emran Hossain" /></a>
+<a align="center" href="https://www.linkedin.com/in/emran-hossain-825030341/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Hi+I%27M+Emran+Hossain" alt="Hi, I'm Emran Hossain" /></a>
 
 
   <h3 style="margin: 0;">👨‍💻 A passionate web Developer from Bangladesh</h3>
