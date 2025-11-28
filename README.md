@@ -38,7 +38,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sabbir-hossen-2755a5255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabbir-hossen-2755a5255/" height="30" width="40" /></a>
+<a href="//https:www.linkedin.com/in/emran-hossain-825030341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabbir-hossen-2755a5255/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/md.emran.125474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100016363419040" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Emrandeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@keyboardfighterbd" height="30" width="40" /></a>
 </p>
